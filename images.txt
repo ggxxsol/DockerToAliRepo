@@ -1,2 +1,4 @@
 redis:7-alpine
 postgis/postgis:17-master
+openjdk:11-jre-buster
+node:22-bullseye-slim
