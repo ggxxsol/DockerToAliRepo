@@ -1,3 +1,2 @@
-redis:7.4.1
-
-
+redis:7-alpine
+postgis/postgis:17-master
